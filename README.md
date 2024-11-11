@@ -2,7 +2,7 @@
 
 ## 🐍 Description
 Welcome to **Regression Project**. The aim of this project is to: 
-Analyse and predict the impact of CO2 emissions from the agri-food sector as well as related sectors on climate change, as measured by average temperature rise, and develop strategies for sustainable practices using FAO and IPCC datasets.
+Analyse and predict the impact of CO<sub>2</sub> emissions from the agri-food sector as well as related sectors on climate change, as measured by average temperature rise, and develop strategies for sustainable practices using FAO and IPCC datasets.
 For this project, we have concentrated on a single country: France 
 
 
@@ -13,13 +13,14 @@ For this project, we have concentrated on a single country: France
 - _Contact Details_
 
 ## 📜 Files
-This project consists of 6 files other than this Readme:  
+This project consists of 7 files other than this Readme:  
 - A python  notebook containing the analysis (_Regression__Project.ipynb_)
 - The data used in the project  (_Emissions_Agri.csv_)
 - A requirements file to reproduce the environment locally (_requirements.txt_)
-- 2 presentation file of the results and findings (_Regression__Project_Presentation.pdf & _Regression__Project_Presentation.pppt)
+- 2 presentation file of the results and findings (_Regression Project Presentation.pdf_ & _Regression Project Presentation.pppt)_.
   Both files are the same in terms of content but differ in terms of format saved
 - A link to a Trello board which is used to manage the project flow and timelines
+- A screenshot of the Trello board (_Trello.png_)
 
 ## ⚙️ Recreating the Environment
 Reproduce the evironment in Python using:  
