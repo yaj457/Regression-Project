@@ -2,7 +2,7 @@
 
 ## 🐍 Description
 Welcome to **Regression Project**. The aim of this project is to: 
-Analyse and predict the impact of CO<sub>2</sub> emissions from the agri-food sector as well as related sectors on climate change, as measured by average temperature rise, and develop strategies for sustainable practices using FAO and IPCC datasets.
+Analyse and predict the impact of CO<sub>2</sub> emissions from the agri-food sector as well as related sectors on climate change, as measured by average temperature rise, and develop strategies for sustainable practices using FAO and IPCC datasets mainly.
 For this project, we have concentrated on a single country: France 
 
 
