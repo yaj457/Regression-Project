@@ -19,8 +19,8 @@ This project consists of 7 files other than this Readme:
 - A requirements file to reproduce the environment locally (_requirements.txt_)
 - 2 presentation file of the results and findings (_Regression Project Presentation.pdf_ & _Regression Project Presentation.pppt)_.
   Both files are the same in terms of content but differ in terms of format saved
-- A link to a Trello board which is used to manage the project flow and timelines
-- A screenshot of the Trello board (_Trello.png_)
+- A link to a Trello board which is used to manage the project flow and timelines (_Trello Board Link.txt_)
+- A screenshot of the Trello board (_Trello Board Screenshot.jpg_)
 
 ## ⚙️ Recreating the Environment
 Reproduce the evironment in Python using:  
