@@ -1,8 +1,10 @@
-#  Workplace-Project
+#  Regression-Project
 
 ## 🐍 Description
-Welcome to **Workplace Project** This project is how to forecast the riskiness inherent from a portfolio constituting of two shares using a blend of statistical models and methods. 
-We take into consideration the inherent patterns in each share data time series as well as the dependence structure between the two. Prior to that data cleanup has been performed in excel/
+Welcome to **Regression Project**. The aim of this project is to: 
+Analyse and predict the impact of CO2 emissions from the agri-food sector as well as related sectors on climate change, as measured by average temperature rise, and develop strategies for sustainable practices using FAO and IPCC datasets.
+For this project, we have concentrated on a single country: France 
+
 
 ## 📚 Table of Contents
 - _Files_  
@@ -11,11 +13,12 @@ We take into consideration the inherent patterns in each share data time series 
 - _Contact Details_
 
 ## 📜 Files
-This project consists of 5 files other than this Readme:  
-- A python  notebook containing the analysis (_Workplace_Project_v1.ipynb_)
-- The data exported from the notebook for checks (_data.xlsx_)
-- An excel workbook where the checks have been performed (_data-checks.xlsx_)
+This project consists of 6 files other than this Readme:  
+- A python  notebook containing the analysis (_Regression__Project.ipynb_)
+- The data used in the project  (_Emissions_Agri.csv_)
 - A requirements file to reproduce the environment locally (_requirements.txt_)
+- 2 presentation file of the results and findings (_Regression__Project_Presentation.pdf & _Regression__Project_Presentation.pppt)
+  Both files are the same in terms of content but differ in terms of format saved
 - A link to a Trello board which is used to manage the project flow and timelines
 
 ## ⚙️ Recreating the Environment
